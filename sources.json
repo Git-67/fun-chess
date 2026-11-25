@@ -1,0 +1,314 @@
+[
+  {
+    "file": "wK.svg",
+    "source": "https://raw.githubusercontent.com/lichess-org/lila/master/public/piece/cburnett/wK.svg",
+    "author": "Colin M. L. Burnett",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "file": "wQ.svg",
+    "source": "https://raw.githubusercontent.com/lichess-org/lila/master/public/piece/cburnett/wQ.svg",
+    "author": "Colin M. L. Burnett",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "file": "wR.svg",
+    "source": "https://raw.githubusercontent.com/lichess-org/lila/master/public/piece/cburnett/wR.svg",
+    "author": "Colin M. L. Burnett",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "file": "wB.svg",
+    "source": "https://raw.githubusercontent.com/lichess-org/lila/master/public/piece/cburnett/wB.svg",
+    "author": "Colin M. L. Burnett",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "file": "wN.svg",
+    "source": "https://raw.githubusercontent.com/lichess-org/lila/master/public/piece/cburnett/wN.svg",
+    "author": "Colin M. L. Burnett",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "file": "wP.svg",
+    "source": "https://raw.githubusercontent.com/lichess-org/lila/master/public/piece/cburnett/wP.svg",
+    "author": "Colin M. L. Burnett",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "file": "bK.svg",
+    "source": "https://raw.githubusercontent.com/lichess-org/lila/master/public/piece/cburnett/bK.svg",
+    "author": "Colin M. L. Burnett",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "file": "bQ.svg",
+    "source": "https://raw.githubusercontent.com/lichess-org/lila/master/public/piece/cburnett/bQ.svg",
+    "author": "Colin M. L. Burnett",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "file": "bR.svg",
+    "source": "https://raw.githubusercontent.com/lichess-org/lila/master/public/piece/cburnett/bR.svg",
+    "author": "Colin M. L. Burnett",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "file": "bB.svg",
+    "source": "https://raw.githubusercontent.com/lichess-org/lila/master/public/piece/cburnett/bB.svg",
+    "author": "Colin M. L. Burnett",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "file": "bN.svg",
+    "source": "https://raw.githubusercontent.com/lichess-org/lila/master/public/piece/cburnett/bN.svg",
+    "author": "Colin M. L. Burnett",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "file": "bP.svg",
+    "source": "https://raw.githubusercontent.com/lichess-org/lila/master/public/piece/cburnett/bP.svg",
+    "author": "Colin M. L. Burnett",
+    "license": "GPL-2.0-or-later"
+  },
+  {
+    "file": "turncoat.svg",
+    "source": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/switch-weapon.svg",
+    "author": "delapouite",
+    "license": "CC-BY-3.0"
+  },
+  {
+    "file": "blink.svg",
+    "source": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/teleport.svg",
+    "author": "lorc",
+    "license": "CC-BY-3.0"
+  },
+  {
+    "file": "ascend.svg",
+    "source": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/upgrade.svg",
+    "author": "delapouite",
+    "license": "CC-BY-3.0"
+  },
+  {
+    "file": "banish.svg",
+    "source": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/laser-sparks.svg",
+    "author": "lorc",
+    "license": "CC-BY-3.0"
+  },
+  {
+    "file": "cannon.svg",
+    "source": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/cannon.svg",
+    "author": "lorc",
+    "license": "CC-BY-3.0"
+  },
+  {
+    "file": "laser.svg",
+    "source": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/laser-turret.svg",
+    "author": "delapouite",
+    "license": "CC-BY-3.0"
+  },
+  {
+    "file": "hurricane.svg",
+    "source": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/tornado.svg",
+    "author": "lorc",
+    "license": "CC-BY-3.0"
+  },
+  {
+    "file": "earthquake.svg",
+    "source": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/quake-stomp.svg",
+    "author": "lorc",
+    "license": "CC-BY-3.0"
+  },
+  {
+    "file": "meteor.svg",
+    "source": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/meteor-impact.svg",
+    "author": "lorc",
+    "license": "CC-BY-3.0"
+  },
+  {
+    "file": "shield.svg",
+    "source": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/roman-shield.svg",
+    "author": "delapouite",
+    "license": "CC-BY-3.0"
+  },
+  {
+    "file": "frost.svg",
+    "source": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/ice-cube.svg",
+    "author": "lorc",
+    "license": "CC-BY-3.0"
+  },
+  {
+    "file": "swap.svg",
+    "source": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/perspective-dice-six-faces-random.svg",
+    "author": "delapouite",
+    "license": "CC-BY-3.0"
+  },
+  {
+    "file": "reinforce.svg",
+    "source": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/pawn.svg",
+    "author": "lorc",
+    "license": "CC-BY-3.0"
+  },
+  {
+    "file": "dino.svg",
+    "source": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/dinosaur-rex.svg",
+    "author": "lorc",
+    "license": "CC-BY-3.0"
+  },
+  {
+    "file": "battery.svg",
+    "source": "https://raw.githubusercontent.com/game-icons/icons/master/priorblue/battery-plus.svg",
+    "author": "priorblue",
+    "license": "CC-BY-3.0"
+  },
+  {
+    "file": "coin.svg",
+    "source": "https://raw.githubusercontent.com/game-icons/icons/master/caro-asercion/coinflip.svg",
+    "author": "caro-asercion",
+    "license": "CC-BY-3.0"
+  },
+  {
+    "file": "crown.svg",
+    "source": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/crown.svg",
+    "author": "lorc",
+    "license": "CC-BY-3.0"
+  },
+  {
+    "file": "danger.svg",
+    "source": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/bleeding-eye.svg",
+    "author": "lorc",
+    "license": "CC-BY-3.0"
+  },
+  {
+    "file": "undo.svg",
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/undo-2.svg",
+    "author": "Lucide contributors",
+    "license": "ISC"
+  },
+  {
+    "file": "reset.svg",
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/rotate-cw.svg",
+    "author": "Lucide contributors",
+    "license": "ISC"
+  },
+  {
+    "file": "bolt.svg",
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/zap.svg",
+    "author": "Lucide contributors",
+    "license": "ISC"
+  },
+  {
+    "file": "close.svg",
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/x.svg",
+    "author": "Lucide contributors",
+    "license": "ISC"
+  },
+  {
+    "file": "next.svg",
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/chevron-down.svg",
+    "author": "Lucide contributors",
+    "license": "ISC"
+  },
+  {
+    "file": "book.svg",
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/book-open.svg",
+    "author": "Lucide contributors",
+    "license": "ISC"
+  },
+  {
+    "file": "sound.svg",
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/volume-2.svg",
+    "author": "Lucide contributors",
+    "license": "ISC"
+  },
+  {
+    "file": "muted.svg",
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/volume-x.svg",
+    "author": "Lucide contributors",
+    "license": "ISC"
+  },
+  {
+    "file": "swords.svg",
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/swords.svg",
+    "author": "Lucide contributors",
+    "license": "ISC"
+  },
+  {
+    "file": "pacman.svg",
+    "source": "https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/pacman.svg",
+    "author": "Tabler contributors",
+    "license": "MIT"
+  },
+  {
+    "file": "help.svg",
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/circle-question-mark.svg",
+    "author": "Lucide contributors",
+    "license": "ISC"
+  },
+  {
+    "file": "tabler-LICENSE.txt",
+    "source": "https://raw.githubusercontent.com/tabler/tabler-icons/main/LICENSE",
+    "author": "Tabler contributors",
+    "license": "MIT"
+  },
+  {
+    "file": "dino-sprite.png",
+    "source": "https://chromium.googlesource.com/chromium/src/+/main/components/neterror/resources/images/default_100_percent/offline/100-offline-sprite.png?format=TEXT",
+    "author": "The Chromium Authors",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "file": "barricade.svg",
+    "source": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/brick-wall.svg",
+    "author": "delapouite",
+    "license": "CC-BY-3.0"
+  },
+  {
+    "file": "emp.svg",
+    "source": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/lightning-dissipation.svg",
+    "author": "lorc",
+    "license": "CC-BY-3.0"
+  },
+  {
+    "file": "gust.svg",
+    "source": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/whirlwind.svg",
+    "author": "lorc",
+    "license": "CC-BY-3.0"
+  },
+  {
+    "file": "thaw.svg",
+    "source": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/snowflake-1.svg",
+    "author": "lorc",
+    "license": "CC-BY-3.0"
+  },
+  {
+    "file": "mulligan.svg",
+    "source": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/card-exchange.svg",
+    "author": "delapouite",
+    "license": "CC-BY-3.0"
+  },
+  {
+    "file": "fortify.svg",
+    "source": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/healing-shield.svg",
+    "author": "delapouite",
+    "license": "CC-BY-3.0"
+  },
+  {
+    "file": "disarm.svg",
+    "source": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/armor-downgrade.svg",
+    "author": "delapouite",
+    "license": "CC-BY-3.0"
+  },
+  {
+    "file": "volcano.svg",
+    "source": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/volcano.svg",
+    "author": "lorc",
+    "license": "CC-BY-3.0"
+  },
+  {
+    "file": "settings.svg",
+    "source": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/sliders-horizontal.svg",
+    "author": "Lucide contributors",
+    "license": "ISC"
+  }
+]

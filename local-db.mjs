@@ -1,0 +1,2 @@
+import {DatabaseSync} from 'node:sqlite';
+export function database(file=':memory:'){const db=new DatabaseSync(file);return {exec:sql=>db.exec(sql),prepare(sql){return {bind(...values){return {async first(){return db.prepare(sql).get(...values)||null},async run(){const r=db.prepare(sql).run(...values);return {meta:{changes:Number(r.changes)}}},async all(){return {results:db.prepare(sql).all(...values)}}}}}},close:()=>db.close()}}
