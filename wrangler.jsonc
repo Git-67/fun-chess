@@ -1,0 +1,13 @@
+{
+  "name": "crown-and-cards",
+  "main": "dist/server/index.js",
+  "compatibility_date": "2026-11-25",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "crown-and-cards",
+      "database_id": "REPLACE_WITH_YOUR_D1_DATABASE_ID",
+      "migrations_dir": "drizzle"
+    }
+  ]
+}
